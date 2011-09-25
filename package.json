@@ -11,7 +11,7 @@
     "traits": "jar:http://github.com/nrstott/traits.js/zipball/master!/lib/traits"
   },
   "dependencies": {
-    "promised-io": ">=0.2.1",
+    "promised-io": ">=0.2.5",
     "traits": ">=0.3.0"
   },
   "devDependencies": {
